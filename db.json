@@ -1,0 +1,372 @@
+{
+  "getAllItems": [
+    {
+      "id": 1,
+      "name": "Tartan",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 2,
+      "name": "Burnt",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 3,
+      "name": "White Melange",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 4,
+      "name": "Pistachio",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 5,
+      "name": "Amber",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 6,
+      "name": "Elite",
+      "price": "$899",
+      "title": "shirts"
+    },
+    {
+      "id": 7,
+      "name": "Feline",
+      "price": "$899",
+      "title": "shirts"
+    },
+    {
+      "id": 8,
+      "name": "Blossom",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 9,
+      "name": "Tint Fusion",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 10,
+      "name": "Conceptual",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 11,
+      "name": "Aqua-Marine",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 12,
+      "name": "Countryside",
+      "price": "$879",
+      "title": "shirts"
+    },
+    {
+      "id": 13,
+      "name": "Chromatic",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 15,
+      "name": "Random",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 16,
+      "name": "Azure spots",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 17,
+      "name": "Tangerine dream",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 18,
+      "name": "Fuzzy",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 19,
+      "name": "Summer Melon",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 20,
+      "name": "Cobalt",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 21,
+      "name": "Candy",
+      "price": "$989",
+      "title": "shirts"
+    },
+    {
+      "id": 22,
+      "name": "Apex",
+      "price": "$3,114",
+      "title": "pants"
+    },
+    {
+      "id": 23,
+      "name": "Mordern Warfare",
+      "price": "$3,024",
+      "title": "pants"
+    },
+    {
+      "id": 24,
+      "name": "Dark Sky",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 25,
+      "name": "Lime Green",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 26,
+      "name": "Turquoise plus",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 27,
+      "name": "Higan Cherry",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 28,
+      "name": "Oriental Ocean",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 29,
+      "name": "Miracle Green",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 30,
+      "name": "Mettle",
+      "price": "$2,394",
+      "title": "pants"
+    },
+    {
+      "id": 31,
+      "name": "Avant-garde",
+      "price": "$2,394",
+      "title": "pants"
+    },
+    {
+      "id": 32,
+      "name": "Obisidian",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 33,
+      "name": "Murasaki",
+      "price": "$1,439",
+      "title": "t-shirts"
+    },
+    {
+      "id": 34,
+      "name": "Rapini",
+      "price": "$1,439",
+      "title": "t-shirts"
+    },
+    {
+      "id": 35,
+      "name": "Butterfly",
+      "price": "$1,439",
+      "title": "t-shirts"
+    }
+  ],
+  "shirts": [
+    {
+      "id": 1,
+      "name": "Tartan",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 2,
+      "name": "Burnt",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 3,
+      "name": "White Melange",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 4,
+      "name": "Pistachio",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 5,
+      "name": "Amber",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 6,
+      "name": "Elite",
+      "price": "$899",
+      "title": "shirts"
+    },
+    {
+      "id": 7,
+      "name": "Feline",
+      "price": "$899",
+      "title": "shirts"
+    },
+    {
+      "id": 8,
+      "name": "Blossom",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 9,
+      "name": "Tint Fusion",
+      "price": "$999",
+      "title": "shirts"
+    },
+    {
+      "id": 10,
+      "name": "Conceptual",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 11,
+      "name": "Aqua-Marine",
+      "price": "$1,099",
+      "title": "shirts"
+    },
+    {
+      "id": 12,
+      "name": "Countryside",
+      "price": "$879",
+      "title": "shirts"
+    }
+  ],
+
+  "pants": [
+    {
+      "id": 1,
+      "name": "Apex",
+      "price": "$3,114",
+      "title": "pants"
+    },
+    {
+      "id": 2,
+      "name": "Mordern Warfare",
+      "price": "$3,024",
+      "title": "pants"
+    },
+    {
+      "id": 3,
+      "name": "Dark Sky",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 4,
+      "name": "Lime Green",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 5,
+      "name": "Turquoise plus",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 6,
+      "name": "Higan Cherry",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 7,
+      "name": "Oriental Ocean",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 8,
+      "name": "Miracle Green",
+      "price": "$1,999",
+      "title": "pants"
+    },
+    {
+      "id": 9,
+      "name": "Mettle",
+      "price": "$2,394",
+      "title": "pants"
+    },
+    {
+      "id": 10,
+      "name": "Avant-garde",
+      "price": "$2,394",
+      "title": "pants"
+    },
+    {
+      "id": 11,
+      "name": "Obisidian",
+      "price": "$1,999",
+      "title": "pants"
+    }
+  ],
+
+  "t-shirts": [
+    {
+      "id": 1,
+      "name": "Murasaki",
+      "price": "$1,439",
+      "title": "t-shirts"
+    },
+    {
+      "id": 2,
+      "name": "Rapini",
+      "price": "$1,439",
+      "title": "t-shirts"
+    },
+    {
+      "id": 3,
+      "name": "Butterfly",
+      "price": "$1,439",
+      "title": "t-shirts"
+    }
+  ]
+}
